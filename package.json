@@ -1,0 +1,22 @@
+{
+  "name": "flutter-react-native",
+  "version": "1.0.2",
+  "description": "Bridging to call React Native Function from flutter to develop Micro FrontEnd",
+  "main": "react-module.js",
+  "keywords": [
+    "flutter",
+    "react-bridging",
+    "micro-frontend",
+    "flutter-bridging",
+    "react",
+    "bridging"
+  ],
+  "author": "noobcode",
+  "license": "ISC",
+  "devDependencies": {
+    "react-native": "^0.72.4"
+  },
+  "dependencies": {
+    "react-native-uuid": "^2.0.1"
+  }
+}
