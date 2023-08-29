@@ -1,6 +1,6 @@
 {
   "name": "flutter-react-native",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Bridging to call React Native Function from flutter to develop Micro FrontEnd",
   "main": "react-module.js",
   "keywords": [
